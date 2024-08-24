@@ -392,7 +392,7 @@ select {
     grid-area: title;
     justify-self: start;
     align-self: start;
-    margin-left: 13em;
+    margin-left: 8em;
   }
 
   .grid-container--technology > picture {
